@@ -1,0 +1,1 @@
+program HelloWorld { function main() { console.print("Hello, World!"); } }
