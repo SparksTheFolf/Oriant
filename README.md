@@ -1,2 +1,2 @@
-# Oriant
-Oriant Language // Low Level Parser
+# Orient
+Orient Language // Low Level Parser
